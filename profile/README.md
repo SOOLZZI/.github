@@ -1,12 +1,26 @@
-## Hi there 👋
+# 주류 구매 서비스
 
-<!--
+## 기능 명세
+- 주류 탐색 기능
+- 주류 주문 기능
+- 주류 결제 기능
+- 주류 예약 기능
+- 주류 별점/후기 기능
+- 포인트 기능
+- 쿠폰 기능
+- 레시피 커뮤니티
 
-**Here are some ideas to get you started:**
+- 주조업체 등록
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 기술 스택
+- 도커/쿠버네티스
+- 스프링 클라우드
+- jenkins
+- kafka
+- elasticsearch
+- logstash
+- kibana
+- zipkin
+- prometheus
+- grafana
